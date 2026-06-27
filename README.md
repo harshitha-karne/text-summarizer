@@ -1,6 +1,7 @@
-# Text Summarizer Minor Project
+# Text Summarizer 
 
-An **ML-based text summarization project** with a lightweight web interface, built using **FastAPI**, **Hugging Face Transformers**, and a locally saved **T5** model. The project combines machine learning and web development to accept long text or dialogue input from a browser UI and return a concise generated summary.
+Built an end-to-end AI-powered text summarization system using a fine-tuned T5 Transformer model. The application integrates FastAPI, PyTorch, Hugging Face Transformers, and an interactive HTML/CSS/JavaScript frontend to generate real-time abstractive summaries. The project showcases practical experience in NLP, deep learning model deployment, REST API development, and web application integration.
+
 
 ## Features
 
