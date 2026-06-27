@@ -155,3 +155,16 @@ These files are commonly used for dialogue summarization experiments.
 - If PyTorch with GPU support is installed and CUDA is available, the app will use GPU automatically.
 - If no GPU is available, the app will run on CPU.
 - The first summary may take longer because the model needs to load into memory.
+
+
+## Future Enhancements
+
+- Add file upload support for summarizing TXT, PDF, and DOCX documents
+- Provide summary length options such as short, medium, and detailed summaries
+- Add a summary history feature to view previously generated summaries
+- Include copy, download, and clear buttons for better user experience
+- Display input word count, summary word count, and compression ratio
+- Improve the frontend with better responsive design and loading animations
+- Add model evaluation results using ROUGE scores
+- Deploy the application on a cloud platform for public access
+- Add Docker support for easier setup and deployment
