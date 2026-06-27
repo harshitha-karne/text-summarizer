@@ -15,7 +15,7 @@ Built an end-to-end AI-powered text summarization system using a fine-tuned T5 T
 ## Project Structure
 
 ```text
-text summarizer minor/
+text summarizer/
 |-- app.py                    # FastAPI application and summarization logic
 |-- index.html                # Frontend UI
 |-- text_summarizer.ipynb     # Notebook used for training/experiments
@@ -45,7 +45,7 @@ text summarizer minor/
 Open the project folder:
 
 ```bash
-cd "text summarizer minor"
+cd "text summarizer"
 ```
 
 ### 2. Create a Virtual Environment
@@ -155,7 +155,3 @@ These files are commonly used for dialogue summarization experiments.
 - If PyTorch with GPU support is installed and CUDA is available, the app will use GPU automatically.
 - If no GPU is available, the app will run on CPU.
 - The first summary may take longer because the model needs to load into memory.
-
-## Author
-
-Text Summarizer Minor Project
