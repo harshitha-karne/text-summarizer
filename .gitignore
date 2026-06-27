@@ -1,0 +1,8 @@
+# Python
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Generated outputs
+results/

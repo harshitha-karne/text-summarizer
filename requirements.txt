@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+jinja2
+pydantic
+torch
+transformers
+sentencepiece
+accelerate
+pandas
+numpy
+scikit-learn
+datasets
+evaluate
+rouge-score
+notebook
+ipykernel
